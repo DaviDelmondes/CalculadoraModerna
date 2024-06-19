@@ -45,3 +45,12 @@ button:hover{
     background-color:#FBaB18;
     color:black;
 }
+footer{
+    margin: 50px;
+    background-color: #FBaB18;
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
+
+}
